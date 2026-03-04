@@ -1,0 +1,54 @@
+.\__init__.py:6:1: W391 blank line at end of file
+.\auth_utils.py:31:80: E501 line too long (86 > 79 characters)
+.\auth_utils.py:33:80: E501 line too long (98 > 79 characters)
+.\auth_utils.py:60:1: W391 blank line at end of file
+.\database.py:9:80: E501 line too long (91 > 79 characters)
+.\database.py:36:1: W391 blank line at end of file
+.\main.py:21:80: E501 line too long (81 > 79 characters)
+.\main.py:23:80: E501 line too long (83 > 79 characters)
+.\main.py:35:1: W391 blank line at end of file
+.\models.py:25:80: E501 line too long (82 > 79 characters)
+.\models.py:39:1: W391 blank line at end of file
+.\routers\auth.py:6:80: E501 line too long (86 > 79 characters)
+.\routers\auth.py:14:80: E501 line too long (87 > 79 characters)
+.\routers\auth.py:34:80: E501 line too long (83 > 79 characters)
+.\routers\auth.py:36:80: E501 line too long (88 > 79 characters)
+.\routers\auth.py:37:80: E501 line too long (81 > 79 characters)
+.\routers\auth.py:46:1: W391 blank line at end of file
+.\routers\insurance.py:3:1: F401 'backend.schemas' imported but unused
+.\routers\insurance.py:15:80: E501 line too long (97 > 79 characters)
+.\routers\insurance.py:23:80: E501 line too long (87 > 79 characters)
+.\routers\insurance.py:31:80: E501 line too long (91 > 79 characters)
+.\routers\insurance.py:39:80: E501 line too long (84 > 79 characters)
+.\routers\insurance.py:47:80: E501 line too long (84 > 79 characters)
+.\routers\insurance.py:55:80: E501 line too long (88 > 79 characters)
+.\routers\insurance.py:72:1: W391 blank line at end of file
+.\routers\profile.py:15:80: E501 line too long (88 > 79 characters)
+.\routers\profile.py:85:1: W391 blank line at end of file
+.\routers\recommendations.py:5:1: F401 'fastapi.HTTPException' imported but unused
+.\routers\recommendations.py:14:80: E501 line too long (88 > 79 characters)
+.\routers\recommendations.py:29:32: E231 missing whitespace after ','
+.\routers\recommendations.py:36:80: E501 line too long (169 > 79 characters)
+.\routers\recommendations.py:48:80: E501 line too long (100 > 79 characters)
+.\routers\recommendations.py:49:80: E501 line too long (87 > 79 characters)
+.\routers\recommendations.py:50:80: E501 line too long (109 > 79 characters)
+.\routers\recommendations.py:51:80: E501 line too long (93 > 79 characters)
+.\routers\recommendations.py:56:80: E501 line too long (93 > 79 characters)
+.\routers\recommendations.py:70:80: E501 line too long (119 > 79 characters)
+.\routers\recommendations.py:97:80: E501 line too long (95 > 79 characters)
+.\routers\recommendations.py:99:80: E501 line too long (103 > 79 characters)
+.\routers\recommendations.py:102:80: E501 line too long (83 > 79 characters)
+.\routers\recommendations.py:104:80: E501 line too long (91 > 79 characters)
+.\routers\recommendations.py:113:80: E501 line too long (81 > 79 characters)
+.\routers\recommendations.py:115:80: E501 line too long (82 > 79 characters)
+.\routers\recommendations.py:133:80: E501 line too long (80 > 79 characters)
+.\routers\recommendations.py:145:80: E501 line too long (98 > 79 characters)
+.\routers\recommendations.py:146:80: E501 line too long (82 > 79 characters)
+.\routers\recommendations.py:147:80: E501 line too long (85 > 79 characters)
+.\routers\recommendations.py:149:80: E501 line too long (91 > 79 characters)
+.\routers\recommendations.py:160:80: E501 line too long (101 > 79 characters)
+.\routers\recommendations.py:161:80: E501 line too long (84 > 79 characters)
+.\routers\recommendations.py:162:80: E501 line too long (96 > 79 characters)
+.\routers\recommendations.py:213:80: E501 line too long (83 > 79 characters)
+.\routers\recommendations.py:229:1: W391 blank line at end of file
+.\schemas.py:75:1: W391 blank line at end of file

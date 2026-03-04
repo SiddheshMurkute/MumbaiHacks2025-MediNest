@@ -1,0 +1,23 @@
+models.py:9: error: Variable "backend.database.Base" is not valid as a type  [valid-type]
+models.py:9: note: See https://mypy.readthedocs.io/en/stable/common_issues.html#variables-vs-type-aliases
+models.py:9: error: Invalid base class "Base"  [misc]
+models.py:21: error: Variable "backend.database.Base" is not valid as a type  [valid-type]
+models.py:21: note: See https://mypy.readthedocs.io/en/stable/common_issues.html#variables-vs-type-aliases
+models.py:21: error: Invalid base class "Base"  [misc]
+auth_utils.py:6: error: Library stubs not installed for "jose"  [import-untyped]
+auth_utils.py:6: note: Hint: "python3 -m pip install types-python-jose"
+auth_utils.py:7: error: Library stubs not installed for "passlib.context"  [import-untyped]
+auth_utils.py:7: note: Hint: "python3 -m pip install types-passlib"
+auth_utils.py:7: note: (or run "mypy --install-types" to install all missing stub packages)
+auth_utils.py:7: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+routers\profile.py:28: error: Argument 1 to "loads" has incompatible type "Column[str]"; expected "str | bytes | bytearray"  [arg-type]
+routers\profile.py:60: error: Incompatible types in assignment (expression has type "str", variable has type "Column[str]")  [assignment]
+routers\profile.py:61: error: Incompatible types in assignment (expression has type "int", variable has type "Column[int]")  [assignment]
+routers\profile.py:62: error: Incompatible types in assignment (expression has type "str", variable has type "Column[str]")  [assignment]
+routers\profile.py:63: error: Incompatible types in assignment (expression has type "str", variable has type "Column[str]")  [assignment]
+routers\profile.py:64: error: Incompatible types in assignment (expression has type "str", variable has type "Column[str]")  [assignment]
+routers\profile.py:65: error: Incompatible types in assignment (expression has type "str | None", variable has type "Column[str]")  [assignment]
+routers\profile.py:66: error: Incompatible types in assignment (expression has type "str", variable has type "Column[str]")  [assignment]
+routers\profile.py:82: error: Argument 1 to "loads" has incompatible type "Column[str] | str"; expected "str | bytes | bytearray"  [arg-type]
+routers\auth.py:37: error: Argument 2 to "verify_password" has incompatible type "Column[str]"; expected "str"  [arg-type]
+Found 16 errors in 4 files (checked 10 source files)
