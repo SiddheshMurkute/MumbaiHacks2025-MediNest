@@ -97,5 +97,11 @@ To run the AI features, you need a Gemini API Key.
 4. **Insights Delivered**: The LLM parses the diseases and returns curated insurance plans, identifying what is covered (like Day Care Procedures or Chronic Management) and explaining *why* it matches the user's explicit profile score.
 
 ---
+
+Team Members:
+- Siddhesh Murkute
+- Jalmesh Mhatre
+- Pritesh Mahajan
+---
 *Built for MumbaiHack2025.*
 
