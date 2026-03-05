@@ -101,7 +101,7 @@ To run the AI features, you need a Gemini API Key.
 Team Members:
 - Siddhesh Murkute
 - Jalmesh Mhatre
-- Pritesh Mahajan
+- Pritesh Mahajan  
 ---
 *Built for MumbaiHack2025.*
 
