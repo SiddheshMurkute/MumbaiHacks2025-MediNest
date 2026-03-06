@@ -89,7 +89,7 @@ To run the AI features, you need a Gemini API Key.
 
 ---
 
-## 📸 How it Works
+## 📸 How it Works                  how it works can be guessed by using some other things
 
 1. **Sign Up / Login**: Users create their account safely.
 2. **Build Medical Profile**: Input crucial parameters such as **Pre-existing Diseases** (e.g., Diabetes, Hypertension), **Age**, and **City**.
