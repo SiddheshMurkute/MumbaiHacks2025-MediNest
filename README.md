@@ -22,7 +22,7 @@ MediNest is a full-stack application built to simplify health insurance. It leve
 - **React Router v6** for client-side routing
 - **Vanilla CSS / Modern UI**
 
-### Backend ⚙️
+### Backend ⚙️                                     
 - **FastAPI** (Python 3)
 - **SQLite3** mapped with **SQLAlchemy ORM**
 - **Passlib / python-jose** for secure JWT Authentication
